@@ -5,6 +5,12 @@ Stable Diffusion examples
 - The model was trained on the LAION-5B dataset, which contains almost **5 billion image/text pairs**, available in several languages.
 - The training took **150,000 hours**, and was performed using **256 Nvidia A100 GPUs**. The total cost of the training is **600,000$** according to Wikipedia.
 
-25-Nov-2022
+## Python notebook
+<a href="Text 2 Image with Stable Diffusion.ipynb">Python notebook<a>
+
+## Some examples of generated images
+<img src='stable_diffusion_examples.gif'>
+
+29-Nov-2022
 
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
